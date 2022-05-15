@@ -3,7 +3,7 @@
 ```mermaid
 graph TD
 
-[2022 Summer KKT seminar]
+2022 Summer KKT seminar
 
 ```
 
