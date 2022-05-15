@@ -1,6 +1,11 @@
 # KKTseminar
 
+```mermaid
+graph TD
+
 2022 Summer KKT seminar
+
+```
 
 こんにちは。はやしです。
 
